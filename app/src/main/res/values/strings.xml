@@ -19,6 +19,7 @@
         \nA coffee lover fell down in the floor of the things surfing on
         \nand around screens of variant dimensions.
         \nAn Enthusiastic leader of my peers.
+<!--Lines in bio string is repeated to check the scrollview in production phase-->
 </string>
     <string name="what_is_your_nick_name">What is your nick name?</string>
     <string name="done">Done</string>
