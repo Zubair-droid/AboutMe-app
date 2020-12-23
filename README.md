@@ -1,1 +1,1 @@
- AboutMe app built with Kotlin
+ AboutMe android app using kotlin
